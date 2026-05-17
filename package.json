@@ -1,0 +1,23 @@
+{
+  "name": "qa-e2e-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruno-nvs/qa-e2e-platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bruno-nvs/qa-e2e-platform/issues"
+  },
+  "homepage": "https://github.com/bruno-nvs/qa-e2e-platform#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.8.0"
+  }
+}
